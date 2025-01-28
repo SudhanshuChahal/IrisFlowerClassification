@@ -1,6 +1,6 @@
 from src.load_data import get_data
 from src.eda import explore_data, preprocess_data
-from src.train import train_evaluate_model
+from src.train_evaluate import train_evaluate_model
 
 
 def main():
